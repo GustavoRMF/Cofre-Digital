@@ -1,0 +1,6 @@
+/build/
+/dist/
+/*.log
+
+*imag.ico
+    
